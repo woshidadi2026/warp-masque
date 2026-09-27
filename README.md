@@ -1,4 +1,4 @@
-# Opera MASQUE Worker
+# warp-masque
 
 基于 [byJoey/warp-masque-actions](https://github.com/byJoey/warp-masque-actions) 修改。  
 在 Cloudflare Worker 上生成 Clash 订阅（WARP / Opera / Proton）。
